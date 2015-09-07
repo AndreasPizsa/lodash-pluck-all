@@ -1,0 +1,17 @@
+{
+  "name": "lodash-pluck-all",
+  "version": "0.0.1",
+  "description": "Pluck multiple keys from a collection of objects (lodash mixin)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Pizsa (https://github.com/AndreasPizsa)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.0"
+  },
+  "peerDependencies": {
+    "lodash": "^3.10.1"
+  }
+}
