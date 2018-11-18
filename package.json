@@ -10,7 +10,7 @@
   "author": "Andreas Pizsa (https://github.com/AndreasPizsa)",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^2.3.0"
+    "mocha": "^5.2.0"
   },
   "peerDependencies": {
     "lodash": "^3.10.1"
